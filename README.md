@@ -1,11 +1,12 @@
 # identikit
 Who am i?
 
-Hello everyone, i m an italian junior Penetration Tester/ Ethical Hacker.
-Right now i m using this repository only for sharing my portfolio and small experience in Cybersecurity field. If you passionate
-as i am about it, i m here to share info and knowledge so feel free to contact me.
+Hello everyone,
+I’m an Italian junior Penetration Tester/Ethical Hacker.
+Currently, I’m using this repository to share my portfolio and some of my experience in the cybersecurity field.
+If you’re as passionate about it as I am, I’m here to exchange information and knowledge—so feel free to contact me!
 
-*** I upload an HTML file to show you who am i and what i m searching for ***
+I have uploaded an HTML file to show you who I am and what I’m looking for.
 
 Best "ethical" regards,
 A.C.
